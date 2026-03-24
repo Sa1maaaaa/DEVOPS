@@ -27,6 +27,14 @@ Dieses Projekt demonstriert eine vollständige DevOps-Struktur fuer eine Java-ba
 - Docker fuer konsistente Laufzeitumgebungen in Entwicklung und Deployment
 - GitHub Actions als integrierte CI/CD-Loesung
 
+## Projektstatus
+
+- [x] Repository-Setup
+- [x] Java-Code im Repository
+- [x] Dockerfile vorhanden
+- [x] Kubernetes-Deployment vorhanden
+- [x] Tests im Projekt angelegt
+
 ## Projektstruktur
 
 ```text
