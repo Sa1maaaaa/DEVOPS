@@ -1,19 +1,19 @@
-# 🛠️ THM DevOps Projekt – Java Spring Boot Application
+THM DevOps Projekt – Java Spring Boot Application
 
-## 📋 Projektbeschreibung
+Projektbeschreibung
 
-Dieses Projekt demonstriert eine vollständige **DevOps-Infrastruktur** für eine Java-basierte Microservice-Anwendung.  
+Dieses Projekt demonstriert eine vollständige DevOps-Struktur für eine Java-basierte Microservice-Anwendung.  
 Ziel ist es, den kompletten Software-Lifecycle – von der Entwicklung über Testing, Containerisierung, CI/CD bis hin zum Deployment in Kubernetes – **automatisiert und nachvollziehbar** abzubilden.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ **Java 17 & Spring Boot:** Robuste und moderne Backend-Architektur.
-- ✅ **Automatisierte Tests:** JUnit 5 Integration für zuverlässige Quality Assurance.
-- ✅ **CI/CD Pipeline:** Automatisierter Build- und Test-Prozess mit GitHub Actions.
-- ✅ **Docker Containerisierung:** Multi-Stage Builds für schlanke, produktionsreife Images.
-- ✅ **Kubernetes Deployment:** Orchestrierung der Anwendung im Cluster.
+-  **Java 17 & Spring Boot:** Robuste und moderne Backend-Architektur.
+-  **Automatisierte Tests:** JUnit 5 Integration für zuverlässige Quality Assurance.
+-  **CI/CD Pipeline:** Automatisierter Build- und Test-Prozess mit GitHub Actions.
+-  **Docker Containerisierung:** Multi-Stage Builds für schlanke, produktionsreife Images.
+-  **Kubernetes Deployment:** Orchestrierung der Anwendung im Cluster.
 
 ---
 
@@ -29,9 +29,9 @@ Dieses Projekt wurde kollaborativ im Rahmen einer arbeitsteiligen DevOps-Struktu
 
 ---
 
-## 📁 Projektstruktur
+##  Projektstruktur
 ```text
-📦 DEVOPS
+  DEVOPS
 ├── .github/workflows/main.yml    # CI/CD-Pipeline Definition (Melisa)
 ├── src/                          # Java Quellcode & Tests (Faris & Alina)
 ├── Dockerfile                    # Container Definition (Amin)
@@ -43,7 +43,7 @@ Dieses Projekt wurde kollaborativ im Rahmen einer arbeitsteiligen DevOps-Struktu
 
 ---
 
-## ⚙️ Installation & Lokales Testen (Java/Maven)
+##  Installation & Lokales Testen (Java/Maven)
 
 Um das Projekt lokal ohne Docker auszuführen, wird Java 17 und Maven benötigt:
 
