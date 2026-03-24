@@ -50,3 +50,7 @@ Um das Projekt lokal ohne Docker auszuführen, wird Java 17 und Maven benötigt:
 Abhängigkeiten installieren und Projekt bauen:
 ```bash
 mvn clean package
+
+Bash
+# App lokal starten:
+mvn spring-boot:run
