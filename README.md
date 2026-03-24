@@ -17,7 +17,7 @@ Ziel ist es, den kompletten Software-Lifecycle – von der Entwicklung über Tes
 
 ---
 
-## 👥 Team & Rollen (Gruppe)
+##  Team & Rollen (Gruppe)
 
 Dieses Projekt wurde kollaborativ im Rahmen einer arbeitsteiligen DevOps-Struktur umgesetzt:
 
