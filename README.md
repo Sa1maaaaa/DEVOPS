@@ -30,7 +30,7 @@ Dieses Projekt wurde kollaborativ im Rahmen einer arbeitsteiligen DevOps-Struktu
 ---
 
 ## 📁 Projektstruktur
-
+```text
 📦 DEVOPS
 ├── .github/workflows/main.yml    # CI/CD-Pipeline Definition (Salma)
 ├── src/                          # Java Quellcode & Tests (Faris & Alina)
@@ -38,6 +38,7 @@ Dieses Projekt wurde kollaborativ im Rahmen einer arbeitsteiligen DevOps-Struktu
 ├── k8s_deployment.yaml           # Kubernetes Konfiguration
 ├── pom.xml                       # Maven Build- & Abhängigkeits-Konfiguration
 └── README.md                     # Projekt-Dokumentation (Melisa)
+```
 
 
 ---
