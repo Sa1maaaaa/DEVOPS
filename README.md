@@ -23,9 +23,9 @@ Dieses Projekt wurde kollaborativ im Rahmen einer arbeitsteiligen DevOps-Struktu
 
 - **Faris (Application Development):** Entwicklung der Spring Boot Webanwendung und Konfiguration des Maven-Build-Prozesses (`pom.xml`).
 - **Amin (Infrastructure & Containerization):** Erstellung des `Dockerfile` und Optimierung der Container-Umgebung (Multi-Stage Build).
-- **Salma (CI/CD DevOps):** Aufbau und Konfiguration der automatisierten GitHub Actions Pipeline (`main.yml`).
+- **Melisa (CI/CD DevOps):** Aufbau und Konfiguration der automatisierten GitHub Actions Pipeline (`main.yml`).
 - **Alina (Quality Assurance):** Definition der Teststrategie, Implementierung von Unit-Tests und Überwachung der Pipeline-Test-Reports.
-- **Melisa (Project Management):** Koordination, GitHub Repository & Board Management, Dokumentation und finale Abnahme.
+- **Salma (Project Management):** Koordination, GitHub Repository & Board Management, Dokumentation und finale Abnahme.
 
 ---
 
