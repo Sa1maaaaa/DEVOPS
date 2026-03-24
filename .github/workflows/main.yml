@@ -72,7 +72,7 @@ jobs:
           import yaml
           try:
               with open('k8s_deployment.yaml', 'r') as f:
-              list(yaml.safe_load_all(f))
+                  list(yaml.safe_load_all(f))
               print('✓ YAML syntax is valid')
           except yaml.YAMLError as e:
               print(f'✗ YAML syntax error: {e}')
