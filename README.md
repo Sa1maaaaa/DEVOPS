@@ -52,5 +52,5 @@ Abhängigkeiten installieren und Projekt bauen:
 mvn clean package
 
 Bash
-# App lokal starten:
+## App lokal starten:
 mvn spring-boot:run
