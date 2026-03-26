@@ -29,17 +29,30 @@ Dieses Projekt wurde kollaborativ im Rahmen einer arbeitsteiligen DevOps-Struktu
 
 ---
 
+<<<<<<< HEAD
 ##  Projektstruktur
 ```text
   DEVOPS
 ├── .github/workflows/main.yml    # CI/CD-Pipeline Definition (Melisa)
+=======
+## 📁 Projektstruktur
+
+```text
+📦 DEVOPS
+├── .github/workflows/main.yml    # CI/CD-Pipeline Definition (Salma)
+>>>>>>> 8b512d9 (Update README.md)
 ├── src/                          # Java Quellcode & Tests (Faris & Alina)
 ├── Dockerfile                    # Container Definition (Amin)
 ├── k8s_deployment.yaml           # Kubernetes Konfiguration
 ├── pom.xml                       # Maven Build- & Abhängigkeits-Konfiguration
+<<<<<<< HEAD
 └── README.md                     # Projekt-Dokumentation (Salma)
 ```
 
+=======
+└── README.md                     # Projekt-Dokumentation (Melisa)
+```
+>>>>>>> 8b512d9 (Update README.md)
 
 ---
 
