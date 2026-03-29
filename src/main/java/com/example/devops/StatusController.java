@@ -8,6 +8,6 @@ public class StatusController {
 
     @GetMapping("/")
     public String status() {
-        return "Devops Videodemo- Status: Online";
+        return "Hallo Welt 67 - Status: Online";
     }
 }
